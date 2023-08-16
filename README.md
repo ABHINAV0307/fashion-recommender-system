@@ -1,4 +1,4 @@
-# Fashion-Recommender-System
+# Fashion-Recommender System
 In this we are going to select an image and according to that it will suggest us 5 image most relevent to it
 
 
